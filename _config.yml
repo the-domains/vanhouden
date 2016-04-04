@@ -1,0 +1,28 @@
+name: vanhouden
+favicon: null
+layout_spectrum: 0.7926071796100587
+typography_spectrum: 0.6389692923985422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6991601402405649
+  lightness: 0.9893879641313106
+  saturation: 0.711631957674399
+  rhythmicContrast: 0.8555392296984792
+purpose: []
